@@ -1,2 +1,3 @@
 # hello-world
-hi
+hi.
+I am a ETI student. 
